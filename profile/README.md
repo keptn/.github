@@ -26,4 +26,9 @@ join [our meetings](https://keptn.sh/community/#meetings),
 participate and [contribute](https://keptn.sh/community/contributing/).
 See also our 
 [Project Governance](https://github.com/keptn/keptn/blob/master/GOVERNANCE.md) and
-[Code of Conduct](https://github.com/keptn/community/blob/main/CODE_OF_CONDUCT.md).
+[Code of Conduct](https://github.com/keptn/.github/blob/main/CODE_OF_CONDUCT.md).
+
+**Other organizations on GitHub.**
+[keptn-contrib](https://github.com/keptn-contrib) for services/integrations,
+[keptn-sandbox](https://github.com/keptn-sandbox) for experimental projects,
+[keptn-sockshop](https://github.com/keptn-sockshop) for the main demos.
