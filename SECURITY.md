@@ -40,9 +40,7 @@ The team will react promptly to fix the security issue and its workaround/fix wi
 
 Defined below are the security contacts for this repository. In case you identify any security issue, please reach out to all of the security contacts.
 
-- johannes.braeuer
-- andreas.grimmer
-- christian.kreuzberger
+- oleg.nenashev
 - giovanni.liva
 
 Please append the email addresses with [at] dynatrace [.com] and address your email to all security contacts.
