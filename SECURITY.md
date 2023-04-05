@@ -6,7 +6,7 @@ This page borrows parts of its contents from https://kubernetes.io/security/
 
 We are extremely grateful for security researchers and users that report vulnerabilities to the Keptn Open Source Community. All reports are thoroughly investigated by a set of community members.
 
-To make a report, submit your vulnerability to all security contacts of Keptn [listed below](#security-contacts). This allows triage and handling of the vulnerability with standardized response times.
+To make a report, submit your vulnerability via the [Security Advisory portal](https://github.com/keptn/lifecycle-toolkit/security/advisories/new) ing GitHub. This allows triage and handling of the vulnerability with standardized response times.
 
 ### When Should I Report a Vulnerability?
 
@@ -35,10 +35,4 @@ A public disclosure date is negotiated by the Keptn Security Committee and the b
 If you find a security-related bug in Keptn, we kindly ask you for responsible disclosure and for giving us appropriate time to react, analyze, and develop a fix to mitigate the found security vulnerability. The security contact will investigate the issue within 5 working days.
 
 The team will react promptly to fix the security issue and its workaround/fix will be [published on our website](https://keptn.sh/docs/news/vulnerability_bulletins/) along with a classification of the security issue.
-
-## Security Contacts
-
-Defined below are the security contacts for this repository. In case you identify any security issue, please reach out to all of the security contacts.
-
-- cncf-keptn-maintainers@lists.cncf.io
 
