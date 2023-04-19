@@ -7,6 +7,7 @@ This page borrows parts of its contents from https://kubernetes.io/security/
 We are extremely grateful for security researchers and users that report vulnerabilities to the Keptn Open Source Community. All reports are thoroughly investigated by a set of community members.
 
 To make a report, submit your vulnerability via the [Security Advisory portal](https://github.com/keptn/lifecycle-toolkit/security/advisories/new) on GitHub. This allows triage and handling of the vulnerability with standardized response times.
+You can also email the private <cncf-keptn-tc@lists.cncf.io> list with the security details of your reports.
 
 ### When Should I Report a Vulnerability?
 
