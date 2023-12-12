@@ -5,15 +5,17 @@
 [![Governance](https://img.shields.io/static/v1?label=Governance&message=process&color=yellow)](https://github.com/keptn/keptn/blob/master/GOVERNANCE.md)
 [![Participate](https://img.shields.io/static/v1?label=Contributing&message=guide&color=blue)](https://keptn.sh/community/)
 
-Keptn is an event-driven orchestration engine for cloud-native apps.
-Started in 2018,
-it uses a declarative approach to automate delivery and operations
-so they can be scaled up to a large number of services.
-Keptn evaluates _Service Level Indicators (SLOs)_ and provides a dashboard, alerts, and auto-remediation for them.
-It also provides [integrations](https://keptn.sh/docs/integrations/)
-with the Cloud Native ecosystem 
-including _Prometheus_, _ArgoCD_, _CloudEvents_, _Backstage_,
-and many other cloud-native projects.
+
+Keptn integrates seamlessly with cloud-native deployment tools such as ArgoCD, Flux, and Gitlab to bring application
+awareness to your Kubernetes cluster. Keptn supplements the standard deployment tools with features to help you ensure
+that your deployments are in a healthy state.
+
+For information about the history of the Keptn project, see the Keptn Lifecycle Toolkit is now Keptn! [blog](https://medium.com/keptn/keptn-lifecycle-toolkit-is-now-keptn-e0812217bf46).
+
+Keptn includes multiple features that can be implemented independently or together. 
+It targets three main use cases: Metrics, Observability, and Release lifecycle management.
+
+
 
 Keptn is a member project of the [Cloud Native Computing Foundation](https://cncf.io).
 
