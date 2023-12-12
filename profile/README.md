@@ -12,7 +12,7 @@ that your deployments are in a healthy state.
 
 For information about the history of the Keptn project, see the Keptn Lifecycle Toolkit is now Keptn! [blog](https://medium.com/keptn/keptn-lifecycle-toolkit-is-now-keptn-e0812217bf46).
 
-Keptn includes multiple features that can be implemented independently or together. 
+Keptn includes multiple features that can be implemented independently or together.
 It targets three main use cases: Metrics, Observability, and Release lifecycle management.
 
 
