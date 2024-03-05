@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/static/v1?label=Website&message=keptn.sh&color=blue)](https://keptn.sh/)
 [![Roadmap](https://img.shields.io/static/v1?label=Roadmap&message=public&color=green)](https://github.com/orgs/keptn/projects/1)
 [![Governance](https://img.shields.io/static/v1?label=Governance&message=process&color=yellow)](https://github.com/keptn/community/tree/main/governance)
-[![Participate](https://img.shields.io/static/v1?label=Contributing&message=guide&color=blue)](https://keptn.sh/stable/docs/contribute/)
+[![Participate](https://img.shields.io/static/v1?label=Contribution&message=guide&color=blue)](https://keptn.sh/stable/docs/contribute/)
 
 Keptn integrates seamlessly with cloud-native deployment tools such as ArgoCD, Flux, and Gitlab to bring application
 awareness to your Kubernetes cluster. Keptn supplements the standard deployment tools with features to help you ensure
@@ -20,7 +20,7 @@ Keptn is a member project of the [Cloud Native Computing Foundation](https://cnc
 There is a big community behind Keptn.
 We invite you to join us and participate.
 Connect to the community on
-[Keptn Slack](https://cloud-native.slack.com/archives/C017GAX90GM),
+[Keptn Slack](https://cloud-native.slack.com/messages/keptn/),
 join [our meetings](https://community.cncf.io/keptn-community/),
 participate and [contribute](https://keptn.sh/stable/docs/contribute/).
 See also our
