@@ -2,9 +2,8 @@
 
 [![Website](https://img.shields.io/static/v1?label=Website&message=keptn.sh&color=blue)](https://keptn.sh/)
 [![Roadmap](https://img.shields.io/static/v1?label=Roadmap&message=public&color=green)](https://github.com/orgs/keptn/projects/1)
-[![Governance](https://img.shields.io/static/v1?label=Governance&message=process&color=yellow)](https://github.com/keptn/keptn/blob/master/GOVERNANCE.md)
-[![Participate](https://img.shields.io/static/v1?label=Contributing&message=guide&color=blue)](https://keptn.sh/community/)
-
+[![Governance](https://img.shields.io/static/v1?label=Governance&message=process&color=yellow)](https://github.com/keptn/community/tree/main/governance)
+[![Participate](https://img.shields.io/static/v1?label=Contribution&message=guide&color=blue)](https://keptn.sh/stable/docs/contribute/)
 
 Keptn integrates seamlessly with cloud-native deployment tools such as ArgoCD, Flux, and Gitlab to bring application
 awareness to your Kubernetes cluster. Keptn supplements the standard deployment tools with features to help you ensure
@@ -15,19 +14,17 @@ For information about the history of the Keptn project, see the [Keptn Lifecycle
 Keptn includes multiple features that can be implemented independently or together.
 It targets three main use cases: Metrics, Observability, and Release lifecycle management.
 
-
-
 Keptn is a member project of the [Cloud Native Computing Foundation](https://cncf.io).
 
 **Want to contribute?**
 There is a big community behind Keptn.
-We invite you to join us and participate. 
+We invite you to join us and participate.
 Connect to the community on
-[Keptn Slack](https://keptn.sh/community/#slack),
-join [our meetings](https://keptn.sh/community/#meetings),
-participate and [contribute](https://keptn.sh/community/contributing/).
-See also our 
-[Project Governance](https://github.com/keptn/keptn/blob/master/GOVERNANCE.md) and
+[Keptn Slack](https://cloud-native.slack.com/messages/keptn/),
+join [our meetings](https://community.cncf.io/keptn-community/),
+participate and [contribute](https://keptn.sh/stable/docs/contribute/).
+See also our
+[Project Governance](https://github.com/keptn/community/tree/main/governance) and
 [Code of Conduct](https://github.com/keptn/.github/blob/main/CODE_OF_CONDUCT.md).
 
 **Other organizations on GitHub.**
